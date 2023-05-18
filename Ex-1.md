@@ -18,10 +18,10 @@
 - Select AWS access type
 - Click on attach existing policies directly
 - Select AdministratorAccess policy from the list of policies
-![image](./assets/Ex-1/Ex-1.4.png)
+![image](./assets/Ex-1/Ex-1.3.png)
 - Click on Next: Tags
 - Click on Next: Review
 - Click on Create user
-![image](./assets/Ex-1/Ex-1.3.png)
-- The user is created successfully with admin access
 ![image](./assets/Ex-1/Ex-1.4.png)
+- The user is created successfully with admin access
+![image](./assets/Ex-1/Ex-1.5.png)
