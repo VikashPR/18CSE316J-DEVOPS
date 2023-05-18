@@ -4,7 +4,7 @@
 
 - AWS account
 
-### Procedure for Creating IAM user and IAM admin user in AWS
+## Procedure for Creating IAM user and IAM admin user in AWS
 
 - Login to AWS account Link: https://aws.amazon.com/
 - Go to IAM service
