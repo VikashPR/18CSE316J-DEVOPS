@@ -83,5 +83,17 @@ ssh -i <key-pair-name>.pem ec2-user@<public-ip-address>
 10. Success! Your lifecycle rule is now created.
 ![Lifecycle Rule Created](./assets/Ex-3/Ex-3.15.png)
 
+<!-- Stopping the Ex2 instance to avoid burning all your money lol -->
+
+### Step 6: Stop the Instance
+
+1. Go to the EC2 Dashboard. [Link](https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#Home:)
+2. Click on **Instances**.
+3. Select the instance you just created.
+4. Click on **Actions**.
+5. Click on **Instance State**.
+6. Click on **Stop**. To avoid burning all your daddy's money lol. 
+
+
 
 
