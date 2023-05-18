@@ -92,7 +92,7 @@ ssh -i <key-pair-name>.pem ec2-user@<public-ip-address>
 3. Select the instance you just created.
 4. Click on **Actions**.
 5. Click on **Instance State**.
-6. Click on **Stop**. To avoid burning all your daddy's money lol. 
+6. Click on **Stop**. To avoid burning all your daddy's money <img src="https://media.tenor.com/OstFylkhR5YAAAAC/2020-dank-meme-bruh.gif" width="20" /> 
 
 
 
