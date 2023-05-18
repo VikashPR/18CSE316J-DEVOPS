@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"ec2-instance","Source":"registry.terraform.io/terraform-aws-modules/ec2-instance/aws","Version":"5.0.0","Dir":".terraform/modules/ec2-instance"}]}
