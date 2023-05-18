@@ -1,10 +1,8 @@
 # Creating IAM user & IAM admin user in AWS
 
-# Prerequisites
+## Prerequisites
 
 - AWS account
-- AWS CLI
-- Cloud Shell
 
 ### Procedure for Creating IAM user and IAM admin user in AWS
 
