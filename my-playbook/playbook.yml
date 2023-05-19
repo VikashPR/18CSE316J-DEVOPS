@@ -1,0 +1,24 @@
+- name: Install and configure web server
+  hosts: localhost
+  connection: local
+  become: true
+  tasks:
+    - name: Install Apache web server
+      apt:
+        name: apache2
+        state: present
+    - name: Create index.html file
+      template:
+        src: index.html.j2
+        dest: /var/www/html/index.html
+    - name: Set ownership and permissions on index.html
+      file:
+        path: /var/www/html/index.html
+        owner: www-data
+        group: www-data
+        mode: "0644"
+  handlers:
+    - name: restart apache2
+      service:
+        name: apache2
+        state: restarted
