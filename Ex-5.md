@@ -14,15 +14,21 @@ echo "Hello World"
 ```bash
 
 #!/bin/bash
-echo "Enter a number"
-read num
-fact=1
-while [ $num -gt 1 ]
+
+# Read the number from user input
+read -p "Enter a number: " number
+
+# Initialize the factorial variable to 1
+factorial=1
+
+# Calculate the factorial
+for (( i=1; i<=$number; i++ ))
 do
-fact=$((fact * num))
-num=$((num - 1))
+  factorial=$((factorial * i))
 done
-echo $fact
+
+# Print the result
+echo "The factorial of $number is $factorial"
 
 ```
 
@@ -31,22 +37,19 @@ echo $fact
 ```bash
 
 #!/bin/bash
-echo "Enter a string"
-read str
-len=${#str}
-i=0
-j=$((len - 1))
-while [ $i -lt $j ]
-do
-if [ ${str:$i:1} != ${str:$j:1} ]
-then
-echo "Not a palindrome"
-exit
+
+# Read the string from user input
+read -p "Enter a string: " string
+
+# Reverse the string
+reverse=$(echo "$string" | rev)
+
+# Compare the original string with the reversed string
+if [ "$string" = "$reverse" ]; then
+  echo "The string is a palindrome"
+else
+  echo "The string is not a palindrome"
 fi
-i=$((i + 1))
-j=$((j - 1))
-done
-echo "Palindrome"
 
 ```
 
