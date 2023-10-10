@@ -4,11 +4,11 @@
 
 | SNo | Topic | Technology | Link |
 | --- | ----- | ---------- | ---- |
-| 1 | Creation and usage of access keys | AWS | [Link]( https://github.com/VikashPR/DevOps/blob/main/Ex-1.md ) |
-| 2 | Creating IAM user & IAM admin user in AWS | AWS | [Link]( https://github.com/VikashPR/DevOps/blob/main/Ex-2.md) |
-| 3 | Writing & Executing bash Script in Linux | Linux | [Link]( https://github.com/VikashPR/DevOps/blob/main/Ex-3.md ) |
-| 4 | Instance Creation EC2 S3 Lifecycle Configuration | AWS | [Link]( https://github.com/VikashPR/DevOps/blob/main/Ex-4.md) |
-| 5 | Installation of Linux on Virtual box / VMware | Linux | [Link]( https://github.com/VikashPR/DevOps/blob/main/Ex-5.md ) |
+| 1 | Creation and usage of access keys | AWS | [Link]( https://github.com/VikashPR/DevOps/blob/main/Ex-2.md ) | 
+| 2 | Creating IAM user & IAM admin user in AWS | AWS | [Link]( https://github.com/VikashPR/DevOps/blob/main/Ex-1.md) |
+| 3 | Writing & Executing bash Script in Linux | Linux | [Link]( https://github.com/VikashPR/DevOps/blob/main/Ex-5.md ) |
+| 4 | Instance Creation EC2 S3 Lifecycle Configuration | AWS | [Link]( https://github.com/VikashPR/DevOps/blob/main/Ex-3.md) |
+| 5 | Installation of Linux on Virtual box / VMware | Linux | [Link]( https://github.com/VikashPR/DevOps/blob/main/Ex-4.md ) |
 | 6 | Configuring network services to start/stop automatically at boot | Linux | [Link]( https://github.com/VikashPR/DevOps/blob/main/Ex-6.md ) |
 | 7 | Creating/Deploying VMs in AWS using terraform providers | AWS, Terraform | [Link]( https://github.com/VikashPR/DevOps/blob/main/Ex-7.md ) |
 | 8 | Working with terraform providers | AWS, Terraform | [Link](https://github.com/VikashPR/DevOps/blob/main/Ex-8.md ) |
