@@ -5,17 +5,24 @@
 
 | Ex | Topic | Technology | Link |
 | --- | ----- | ---------- | ---- |
-| 1 | Creation and usage of access keys | AWS | [Link]( https://github.com/VikashPR/DevOps/blob/main/Ex-2.md ) | 
-| 2 | Creating IAM user & IAM admin user in AWS | AWS | [Link]( https://github.com/VikashPR/DevOps/blob/main/Ex-1.md) |
-| 3 | Writing & Executing bash Script in Linux | Linux | [Link]( https://github.com/VikashPR/DevOps/blob/main/Ex-5.md ) |
-| 4 | Instance Creation EC2 S3 Lifecycle Configuration | AWS | [Link]( https://github.com/VikashPR/DevOps/blob/main/Ex-3.md) |
-| 5 | Installation of Linux on Virtual box / VMware | Linux | [Link]( https://github.com/VikashPR/DevOps/blob/main/Ex-4.md ) |
-| 6 | Configuring network services to start/stop automatically at boot | Linux | [Link]( https://github.com/VikashPR/DevOps/blob/main/Ex-6.md ) |
-| 7 | Creating/Deploying VMs in AWS using terraform providers | AWS, Terraform | [Link]( https://github.com/VikashPR/DevOps/blob/main/Ex-7.md ) |
-| 8 | Working with terraform providers | AWS, Terraform | [Link](https://github.com/VikashPR/DevOps/blob/main/Ex-8.md ) |
-| 9 | Installation of ansible and deploy playbook to web | Ansible | [Link](https://github.com/VikashPR/DevOps/blob/main/Ex-9.md ) |
-| 10 | Installation of Docker and working with simple docker | Docker | [Link]( https://github.com/VikashPR/DevOps/blob/main/Ex-10.md ) |
-| 11 | Installation of Kubernetes and deploying kubeadm | Kubernetes | [Link](https://github.com/VikashPR/DevOps/blob/main/Ex-11.md ) |
+| 1 | Creation and usage of access keys | AWS | [View➚]( https://github.com/VikashPR/DevOps/blob/main/Ex-2.md ) | 
+| 2 | Creating IAM user & IAM admin user in AWS | AWS | [View➚]( https://github.com/VikashPR/DevOps/blob/main/Ex-1.md) |
+| 3 | Writing & Executing bash Script in Linux | Linux | [View➚]( https://github.com/VikashPR/DevOps/blob/main/Ex-5.md ) |
+| 4 | Instance Creation EC2 S3 Lifecycle Configuration | AWS | [View➚]( https://github.com/VikashPR/DevOps/blob/main/Ex-3.md) |
+| 5 | Installation of Linux on Virtual box / VMware | Linux | [View➚]( https://github.com/VikashPR/DevOps/blob/main/Ex-4.md ) |
+| 6 | Configuring network services to start/stop automatically at boot | Linux | [View➚]( https://github.com/VikashPR/DevOps/blob/main/Ex-6.md ) |
+| 7 | Creating/Deploying VMs in AWS using terraform providers | AWS, Terraform | [View➚]( https://github.com/VikashPR/DevOps/blob/main/Ex-7.md ) |
+| 8 | Working with terraform providers | AWS, Terraform | [View➚](https://github.com/VikashPR/DevOps/blob/main/Ex-8.md ) |
+| 9 | Installation of ansible and deploy playbook to web | Ansible | [View➚](https://github.com/VikashPR/DevOps/blob/main/Ex-9.md ) |
+| 10 | Installation of Docker and working with simple docker | Docker | [View➚]( https://github.com/VikashPR/DevOps/blob/main/Ex-10.md ) |
+| 11 | Installation of Kubernetes and deploying kubeadm | Kubernetes | [View➚](https://github.com/VikashPR/DevOps/blob/main/Ex-11.md ) |
+
+## More contributions by the same author 🚀
+| Subject Code | Subject Name| Repo Link |
+| -- | -- | -- |
+| 18CSC305J-AI | Artificial Intelligence | [View➚](https://github.com/VikashPR/18CSC305J-AI) | 
+| 18CSC304J-CD | Compiler Design | [View➚](https://github.com/VikashPR/18CSC304J-CD) | 
+| 18CSC303J-DBMS | Database management system | [View➚](https://github.com/VikashPR/18CSC303J-DBMS) | 
 
 ## Credit for being partners in crime 
 
