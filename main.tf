@@ -5,4 +5,3 @@ provider "aws" {
 resource "aws_sns_topic" "devops-ex-8" {
   name = "devops-ex-8"
 }
-
