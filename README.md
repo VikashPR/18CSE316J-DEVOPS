@@ -49,4 +49,3 @@
 4. Make changes and commit them to your branch.
 5. Push your branch to your forked repository.
 6. Submit a pull request to the main repository.
-
