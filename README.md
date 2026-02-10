@@ -21,7 +21,7 @@
 ## More contributions by the same author 🚀
 | Subject Code | Subject Name| Repo Link |
 | -- | -- | -- |
-| 18CSC305J-AI | Artificial Intelligence | [View➚](https://github.com/VikashPR/18CSC305J-AI) | 
+| 18CSC305J-AI | Artificial Intelligence | [View➚](https://github.com/VikashPR/18CSC305J-AI)  | 
 | 18CSC304J-CD | Compiler Design | [View➚](https://github.com/VikashPR/18CSC304J-CD) | 
 | 18CSC303J-DBMS | Database management system | [View➚](https://github.com/VikashPR/18CSC303J-DBMS) | 
 
